@@ -1,0 +1,6 @@
+update_frequency_sec: 120
+num_threads: 1
+data_sources:
+  - news.google.com
+  - finance.yahoo.com
+  - www.msn.com
